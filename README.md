@@ -1,10 +1,6 @@
 # Mohini
 Mohini is a online real time hacking tool which is used for Capturing audio (.wav) from target via a link 😉,
 
-### THIS TOOL IS CREATED FOR EDUCATIONAL PURPOSE, DON'T MISUSE IT.
-<p align="center">
-  <img src=".img/Mohini.png">
-</p>
 
 ### How it works?
 
@@ -25,8 +21,4 @@ Usage of Mohini for attacking targets without prior mutual consent is illegal. I
 ```$ cd Mohini```<br>
 ```$ bash Mohini.sh```<br>
 
-## Workflow 👇
-<br>
-<p align="center">
-  <img src=".img/Mohini.png.png">
-</p>-->
+
